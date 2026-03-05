@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "On Your Mark",
+  "base_artist": "CHAGE and ASKA",
+  "createdAt": "2026-03-05T19:17:26.373277Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ON YOUR MARK",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/01_ON_YOUR_MARK_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ON YOUR MARK",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/02_ON_YOUR_MARK_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ON YOUR MARK",
+      "artist": "Afterglow",
+      "has_synced": true,
+      "path": "select/03_ON_YOUR_MARK_Afterglow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "On your mark",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/04_On_your_mark_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "On Your Mark",
+      "artist": "Sara Groves",
+      "has_synced": false,
+      "path": "select/05_On_Your_Mark_Sara_Groves.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "On Your Mark",
+      "artist": "Gregor Salto & Wiwek",
+      "has_synced": true,
+      "path": "select/06_On_Your_Mark_Gregor_Salto_&_Wiwek.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "On Your Mark",
+      "artist": "CHAGE and ASKA",
+      "has_synced": false,
+      "path": "select/pl_01_On_Your_Mark_CHAGE_and_ASKA.txt"
+    }
+  ]
+}
